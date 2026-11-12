@@ -12,10 +12,12 @@ public class Examen{
         for(i:i<=NUMERO_ASIG:i++){
         System.out.println("Di la nota de la asignatura " i+1);
         
-        suma = suma +1;
+        suma = suma +i;
         }
         double promedio = suma/NUMERO_ASIG;
         System.out.println(promedio);
+        int aprobado;
+        if ()
         
 
     }
