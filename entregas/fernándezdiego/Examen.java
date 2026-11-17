@@ -17,7 +17,7 @@ public class Examen{
         double promedio = suma/NUMERO_ASIG;
         System.out.println(promedio);
         int aprobado;
-        if ()
+        if () prueba
         
 
     }
